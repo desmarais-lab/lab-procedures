@@ -1,3 +1,3 @@
 # lab-procedures
 
-colwiz group for general reading
+See the wiki for this repository
